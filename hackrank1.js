@@ -1,5 +1,6 @@
 //  https://github.com/samisherif95/HackerRankChallengeCodingProblems
 // edit problems on monday
+// every monday new hackerrank review - do hacker rank challenge Thursday?
 
 function maximumSum(arr) {
   // Write your code here
@@ -19,6 +20,7 @@ function maximumSum(arr) {
     }
   }
   return maxSum;
+
 }
 
 function countPairs(numbers, k) {
