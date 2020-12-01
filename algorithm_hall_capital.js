@@ -1,5 +1,4 @@
 // Exercise 1:
-//adaum@hallcapital.com 
 
 // 1. write a function or method that gets the first non-repeating character 
 //(case insensitive) in a string and outputs it, for example, given the string:
